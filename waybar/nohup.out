@@ -66,3 +66,25 @@
 [2025-05-20 22:22:52.578] [info] Bar configured (width: 1900, height: 28) for output: DP-2
 [2025-05-20 22:23:09.199] [error] Hyprland IPC: Couldn't read (5)
 Gdk-Message: 22:23:09.199: Error reading events from display: Обрыв канала
+[2025-07-12 03:13:56.255] [info] Using configuration file /home/kotmarkot/.config/waybar/config
+[2025-07-12 03:13:56.256] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-07-12 03:13:56.257] [info] Using CSS file /home/kotmarkot/.config/waybar/style.css
+[2025-07-12 03:13:56.262] [info] Hyprland IPC starting
+[2025-07-12 03:13:56.262] [info] Loading persistent workspaces from Waybar config
+[2025-07-12 03:13:56.262] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-12 03:13:56.263] [warning] 'swap-icon-label' must be a bool.
+Fontconfig warning: using without calling FcInit()
+[2025-07-12 03:13:56.400] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2025-07-12 03:17:27.582] [info] Using configuration file /home/kotmarkot/.config/waybar/config
+[2025-07-12 03:17:27.583] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-07-12 03:17:27.583] [info] Using CSS file /home/kotmarkot/.config/waybar/style.css
+[2025-07-12 03:17:27.588] [info] Hyprland IPC starting
+[2025-07-12 03:17:27.589] [info] Loading persistent workspaces from Waybar config
+[2025-07-12 03:17:27.589] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-12 03:17:27.589] [warning] 'swap-icon-label' must be a bool.
+Fontconfig warning: using without calling FcInit()
+[2025-07-12 03:17:27.730] [info] Bar configured (width: 1900, height: 28) for output: DP-1
+[2025-07-12 03:27:31.546] [info] Using configuration file /home/kotmarkot/.config/waybar/config
+[2025-07-12 03:27:31.548] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-07-12 03:27:31.548] [info] Using CSS file /home/kotmarkot/.config/waybar/style.css
+[2025-07-12 03:27:31.552] [error] style.css:35:19'justify-content' is not a valid property name

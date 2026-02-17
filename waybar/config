@@ -33,15 +33,16 @@
         "disable-scroll": true,
         "all-outputs": true,
         "sort-by-number": false,
+        "align": 10,
         "format": "{icon}",
-        "format-separator": " | ",
+        //"format-separator": " | ",
 
         "format-icons": {
             "main": "",           // Arch Linux logo (или замени на  для "Home")
             "web": "",            // Firefox globe
             "code": "",           // GitHub (или  для code)
-            "communication": "",  // Chat bubble
-            "active": "●",         // Активный воркспейс, если иконка не указана
+            "communication": "󰵅",  // Chat bubble
+            "active": "",         // Активный воркспейс, если иконка не указана
             "urgent": "",         // Уведомление / urgent
             "default": "○"         // Остальные
         },
